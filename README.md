@@ -1,2 +1,2 @@
 # NanoGrad-engine
-NanoGrad engine is a neural network and autograd engine implemented in Python created while learning micrograd from Andrej Karpathy lectures on zero to hero playlist.
+NanoGrad engine is a neural network and autograd engine implemented in Python created while learning micrograd from zero to hero playlist by Andrej Karpathy
